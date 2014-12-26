@@ -1,6 +1,6 @@
 ﻿// <copyright file="MediaWikiModel.cs" company="trewsly">Copyright (c) Trewsly. All rights reserved.</copyright>
 // <author>Mark Gavin</author>
-namespace MVCClean.Models
+namespace MVCClean.Models 
 {
     using System;
     using System.Collections.Generic;

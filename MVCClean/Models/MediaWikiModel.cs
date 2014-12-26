@@ -13,7 +13,7 @@ namespace MVCClean.Models
     public class MediaWikiModel
     {
         /// <summary>
-        /// Gets or sets Unique Id for Media Outloet
+        /// Gets or sets Unique Id for Media Outloet 
         /// </summary>
         public long Id { get; set; }
 
